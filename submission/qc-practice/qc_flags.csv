@@ -1,0 +1,5 @@
+track_id,frame,error,detail
+0,15,fragmentation_suspect,ID xuat hien giua sequence o 29 m (khong phai frame dau)
+0,20,fragmentation_suspect,ID ket thuc giua sequence o 22 m
+1,27,fragmentation_suspect,ID xuat hien giua sequence o 37 m (khong phai frame dau)
+1,32,fragmentation_suspect,ID ket thuc giua sequence o 30 m
